@@ -33,17 +33,49 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Professional Statement and Pitch Video',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Professional Statement and Pitch Video',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Conduct A Security Audit',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Week 2',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Use the NIST Framework',
+          description:
+            'Respond to a Security Incident',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Use Linux Commands',
+          description:
+            'to Manage File Permissions',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+           {
+          title: 'Home Network & Heatmap Presentations',
+          description:
+            'to Manage File Permissions',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+           {
+          title: 'Cybersecurity Analysis for Small Business Final Project Report and Video',
+          description:
+            'to Manage File Permissions',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
