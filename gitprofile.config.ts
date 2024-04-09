@@ -70,15 +70,15 @@ const CONFIG = {
             'Narrated PPT',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/ChristinaMCanady/portfolio/blob/main/HomeNetwork.mp4',
         },
            {
-          title: 'Cybersecurity Analysis for Small Business Final Project Report and Video',
+          title: 'Cybersecurity Analysis for Small Business Final Project Cameo',
           description:
             'Narrated PPT',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/ChristinaMCanady/portfolio/blob/main/CompressedFinalProject.mp4',
         },
       ],
     },
