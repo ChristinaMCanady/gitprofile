@@ -46,7 +46,7 @@ const CONFIG = {
             'Week 2',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/ChristinaMCanady/portfolio/blob/main/ePortfolio%20Security%20Audit.docx',
         },
         {
           title: 'Use the NIST Framework',
@@ -54,7 +54,7 @@ const CONFIG = {
             'Respond to a Security Incident',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/ChristinaMCanady/portfolio/blob/main/Vulnerability%20assessment%20report%20(2).docx',
         },
         {
           title: 'Use Linux Commands',
@@ -62,12 +62,12 @@ const CONFIG = {
             'to Manage File Permissions',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/ChristinaMCanady/portfolio/blob/main/Activity%20Linux.docx',
         },
            {
           title: 'Home Network & Heatmap Presentations',
           description:
-            'to Manage File Permissions',
+            'Narrated PPT',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -75,7 +75,7 @@ const CONFIG = {
            {
           title: 'Cybersecurity Analysis for Small Business Final Project Report and Video',
           description:
-            'to Manage File Permissions',
+            'Narrated PPT',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -140,6 +140,25 @@ const CONFIG = {
       name: 'ISC(2)',
       body: 'Certified In Cybersecurity',
       year: 'March 2024',
+      link: 'https://www.credly.com/earner/earned/badge/8612a2a0-859b-45b4-a49a-47556d899bf4'
+    },
+     {
+      name: 'Cisco',
+      body: 'Packet Tracer',
+      year: 'Jan 2024',
+      link: 'https://www.credly.com/earner/earned/badge/97fb3172-f041-4169-8ffd-fefc03dd1734'
+    },
+         {
+      name: 'ISC2 Candidate',
+      body: '',
+      year: 'Jan 2024',
+      link: 'https://www.credly.com/earner/earned/badge/fe8ad5b4-e6f9-4895-a0e4-06d4cfba9e07'
+    },
+      {
+      name: 'AWS Cloud Certified',
+      body: '',
+      year: 'April 2024',
+      link: 'https://www.credly.com/earner/earned/badge/fe8ad5b4-e6f9-4895-a0e4-06d4cfba9e07'
     },
   ],
   educations: [
